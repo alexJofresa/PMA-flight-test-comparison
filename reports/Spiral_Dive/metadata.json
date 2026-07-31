@@ -1,0 +1,39 @@
+{
+  "version": "1.1",
+  "created_at": "2026-07-30T23:44:47",
+  "report_name": "Spiral Dive",
+  "comments": "Holding brake",
+  "project": {
+    "manufacturer": "Davinci",
+    "model": "Rythm_3",
+    "size": "L",
+    "weight_config": "Max_Weight",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Davinci\\Rythm_3\\L\\Max_Weight\\Flight_002"
+  },
+  "video_start_s": 175.0,
+  "video_end_s": 205.0,
+  "duration_s": 30.0,
+  "offset_s": 63.6,
+  "csv_start_s": 238.6,
+  "csv_end_s": 268.6,
+  "indicators": [
+    "pitch",
+    "roll",
+    "GNSS_velD",
+    "G_force",
+    "GNSS_alt"
+  ],
+  "gps": {
+    "point_count": 2787,
+    "current_csv_t": 238.6,
+    "current_latitude": 46.399948,
+    "current_longitude": 6.91803
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "data": "data.csv"
+  }
+}
