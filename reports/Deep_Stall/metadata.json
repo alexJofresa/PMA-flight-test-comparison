@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "created_at": "2026-08-01T15:17:31",
-  "report_name": "deep stall test curseur unique ",
+  "created_at": "2026-08-01T16:18:05",
+  "report_name": "Deep Stall",
   "comments": "",
   "project": {
     "manufacturer": "Davinci",
@@ -19,9 +19,10 @@
   "csv_start_s": 108.6,
   "csv_end_s": 123.6,
   "indicators": [
-    "IAS_kmh",
-    "Glide_ratio_GNSS",
-    "pitch"
+    "pitch",
+    "GNSS_velD",
+    "roll",
+    "Glide_ratio_GNSS"
   ],
   "gps": {
     "point_count": 2787,
