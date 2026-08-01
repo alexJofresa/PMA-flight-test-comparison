@@ -1,7 +1,7 @@
 {
   "version": "1.1",
-  "created_at": "2026-07-31T00:12:25",
-  "report_name": "Full stall",
+  "created_at": "2026-08-01T15:45:20",
+  "report_name": "Full Stall ",
   "comments": "",
   "project": {
     "manufacturer": "Davinci",
@@ -12,24 +12,24 @@
     "flight_id": "Flight_002",
     "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Davinci\\Rythm_3\\L\\Max_Weight\\Flight_002"
   },
-  "video_start_s": 115.5,
-  "video_end_s": 135.0,
-  "duration_s": 19.5,
+  "video_start_s": 117.5,
+  "video_end_s": 132.0,
+  "duration_s": 14.5,
   "offset_s": 63.6,
-  "csv_start_s": 179.1,
-  "csv_end_s": 198.6,
+  "csv_start_s": 181.1,
+  "csv_end_s": 195.6,
   "indicators": [
     "pitch",
-    "roll",
-    "GNSS_alt",
     "GNSS_velD",
-    "IAS_kmh"
+    "roll",
+    "GNSS_alt"
   ],
   "gps": {
     "point_count": 2787,
-    "current_csv_t": 179.1,
-    "current_latitude": 46.402892,
-    "current_longitude": 6.919284
+    "manoeuvre_point_count": 73,
+    "current_csv_t": 181.1,
+    "current_latitude": 46.402804,
+    "current_longitude": 6.91911
   },
   "files": {
     "html": "index.html",
