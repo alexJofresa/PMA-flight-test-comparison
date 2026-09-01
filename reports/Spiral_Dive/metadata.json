@@ -1,39 +1,44 @@
 {
-  "version": "1.1",
-  "created_at": "2026-08-01T15:31:44",
-  "report_name": "Spiral Dive test curseur unique ",
-  "comments": "Holding brake ",
+  "version": "1.2",
+  "created_at": "2026-08-25T15:13:46",
+  "report_name": "Spirale dive",
+  "comments": "",
   "project": {
-    "manufacturer": "Davinci",
-    "model": "Rythm_3",
-    "size": "L",
-    "weight_config": "Max_Weight",
-    "flight_number": 2,
-    "flight_id": "Flight_002",
-    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Davinci\\Rythm_3\\L\\Max_Weight\\Flight_002"
+    "manufacturer": "777",
+    "model": "R-light_4",
+    "size": "ML",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\777\\R-light_4\\ML\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\777\\R-light_4\\ML\\max\\Flight_001"
   },
-  "video_start_s": 175.0,
-  "video_end_s": 205.0,
-  "duration_s": 30.0,
-  "offset_s": 63.6,
-  "csv_start_s": 238.6,
-  "csv_end_s": 268.6,
+  "video_start_s": 359.5,
+  "video_end_s": 385.0,
+  "duration_s": 25.5,
+  "offset_s": 466.96989369392395,
+  "sync_scale": 1.000727714445788,
+  "ground_offset_s": -26.0,
+  "csv_start_s": 826.7315070371847,
+  "csv_end_s": 852.2500637555523,
   "indicators": [
     "pitch",
+    "roll",
     "G_force",
-    "GNSS_velD",
-    "roll"
+    "GNSS_alt",
+    "GNSS_velD"
   ],
   "gps": {
-    "point_count": 2787,
-    "manoeuvre_point_count": 148,
-    "current_csv_t": 238.6,
-    "current_latitude": 46.399948,
-    "current_longitude": 6.91803
+    "point_count": 4569,
+    "manoeuvre_point_count": 125,
+    "current_csv_t": 826.7315070371847,
+    "current_latitude": 46.3994,
+    "current_longitude": 6.916741
   },
   "files": {
     "html": "index.html",
     "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
     "data": "data.csv"
   }
 }
