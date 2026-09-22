@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T16:34:36",
+  "report_name": "Asymetric  Collapse Small Full speed 01",
+  "comments": "Result : A\nTurn les than 90° before re-inflation \n\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_002"
+  },
+  "video_start_s": 236.964312,
+  "video_end_s": 251.159166,
+  "duration_s": 14.194853999999992,
+  "offset_s": 362.9834032058716,
+  "sync_scale": 1.0009966820274299,
+  "ground_offset_s": 66.372334,
+  "csv_start_s": 600.1838932767843,
+  "csv_end_s": 614.3928950326481,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3437,
+    "manoeuvre_point_count": 71,
+    "current_csv_t": 600.1838932767843,
+    "current_latitude": 46.400356,
+    "current_longitude": 6.918031
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

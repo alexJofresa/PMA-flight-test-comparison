@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-16T12:46:09",
+  "report_name": "Gentle spiral",
+  "comments": "Result: A\n\n",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "maxi",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\maxi",
+    "flight_number": 4,
+    "flight_id": "Flight_004",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\maxi\\Flight_004"
+  },
+  "video_start_s": 322.203478,
+  "video_end_s": 348.997873,
+  "duration_s": 26.79439500000001,
+  "offset_s": 418.7186040878296,
+  "sync_scale": 1.0009707062225868,
+  "ground_offset_s": 46.0,
+  "csv_start_s": 741.2348470088633,
+  "csv_end_s": 768.0552514948203,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3388,
+    "manoeuvre_point_count": 135,
+    "current_csv_t": 741.2348470088633,
+    "current_latitude": 46.398236,
+    "current_longitude": 6.918377
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

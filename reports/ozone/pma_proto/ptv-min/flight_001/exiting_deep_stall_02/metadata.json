@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-20T15:51:03",
+  "report_name": "Exiting deep stall",
+  "comments": "",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "min",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min\\Flight_001"
+  },
+  "video_start_s": 190.176332,
+  "video_end_s": 216.564352,
+  "duration_s": 26.38802000000001,
+  "offset_s": 245.89999999999998,
+  "sync_scale": 1.0,
+  "ground_offset_s": 22.0,
+  "csv_start_s": 436.076332,
+  "csv_end_s": 462.46435199999996,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "Glide_ratio_GNSS"
+  ],
+  "gps": {
+    "point_count": 3423,
+    "manoeuvre_point_count": 132,
+    "current_csv_t": 436.076332,
+    "current_latitude": 46.40176,
+    "current_longitude": 6.915018
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

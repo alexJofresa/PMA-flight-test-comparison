@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T08:26:36",
+  "report_name": "High Angle of attack recovery",
+  "comments": "3-5 s to recover normal fly\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_001"
+  },
+  "video_start_s": 322.48934,
+  "video_end_s": 346.874256,
+  "duration_s": 24.384915999999976,
+  "offset_s": 263.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 17.029999999999973,
+  "csv_start_s": 585.9893400000001,
+  "csv_end_s": 610.3742560000001,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3148,
+    "manoeuvre_point_count": 122,
+    "current_csv_t": 585.9893400000001,
+    "current_latitude": 46.395996,
+    "current_longitude": 6.917627
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

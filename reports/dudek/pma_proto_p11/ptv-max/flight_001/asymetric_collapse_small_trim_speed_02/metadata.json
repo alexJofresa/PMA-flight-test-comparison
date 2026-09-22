@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T15:08:49",
+  "report_name": "Asymetric collapse small trim speed 02",
+  "comments": "Result: A\nSpontaneous Re-inflation",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_001"
+  },
+  "video_start_s": 407.009541,
+  "video_end_s": 419.239414,
+  "duration_s": 12.229872999999998,
+  "offset_s": 144.32737231254578,
+  "sync_scale": 1.000016854192771,
+  "ground_offset_s": -10.100317000000018,
+  "csv_start_s": 551.3437731298095,
+  "csv_end_s": 563.5738522544466,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "GNSS_alt",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3659,
+    "manoeuvre_point_count": 61,
+    "current_csv_t": 551.3437731298095,
+    "current_latitude": 46.398052,
+    "current_longitude": 6.917473
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

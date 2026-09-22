@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T08:18:33",
+  "report_name": "B-line Stall test",
+  "comments": "Result: A\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_001"
+  },
+  "video_start_s": 252.658718,
+  "video_end_s": 271.963613,
+  "duration_s": 19.304895000000016,
+  "offset_s": 263.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 17.029999999999973,
+  "csv_start_s": 516.158718,
+  "csv_end_s": 535.463613,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3148,
+    "manoeuvre_point_count": 97,
+    "current_csv_t": 516.158718,
+    "current_latitude": 46.399556,
+    "current_longitude": 6.919454
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

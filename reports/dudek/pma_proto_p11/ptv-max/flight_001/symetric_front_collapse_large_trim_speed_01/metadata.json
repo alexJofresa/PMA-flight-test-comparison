@@ -1,0 +1,45 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T14:40:35",
+  "report_name": "Symetric front collapse Large Trim speed 01",
+  "comments": "Result: A",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_001"
+  },
+  "video_start_s": 237.224979,
+  "video_end_s": 253.426895,
+  "duration_s": 16.20191600000001,
+  "offset_s": 144.32737231254578,
+  "sync_scale": 1.000016854192771,
+  "ground_offset_s": -10.100317000000018,
+  "csv_start_s": 381.5563495480719,
+  "csv_end_s": 397.75853861828745,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "G_force",
+    "GNSS_alt",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3659,
+    "manoeuvre_point_count": 81,
+    "current_csv_t": 381.5563495480719,
+    "current_latitude": 46.401584,
+    "current_longitude": 6.915348
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

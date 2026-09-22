@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T13:51:21",
+  "report_name": "High angle of attack recovery test",
+  "comments": "Using C line\nExit in 5s \n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_002"
+  },
+  "video_start_s": 102.978708,
+  "video_end_s": 128.107645,
+  "duration_s": 25.128936999999993,
+  "offset_s": 1025.0,
+  "sync_scale": 1.0,
+  "ground_offset_s": -6.0,
+  "csv_start_s": 1127.978708,
+  "csv_end_s": 1153.107645,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll"
+  ],
+  "gps": {
+    "point_count": 5834,
+    "manoeuvre_point_count": 125,
+    "current_csv_t": 1127.978708,
+    "current_latitude": 46.40526,
+    "current_longitude": 6.923733
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

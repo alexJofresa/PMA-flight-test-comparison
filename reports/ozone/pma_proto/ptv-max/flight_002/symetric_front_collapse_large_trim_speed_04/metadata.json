@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-12T22:17:35",
+  "report_name": "Symetric front collapse large trim speed 04",
+  "comments": "Shape ok",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "maxi",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\maxi\\Flight_002"
+  },
+  "video_start_s": 172.47677,
+  "video_end_s": 191.814165,
+  "duration_s": 19.337395000000015,
+  "offset_s": 287.18048453330994,
+  "sync_scale": 1.000997388829654,
+  "ground_offset_s": 47.0,
+  "csv_start_s": 459.82928093708273,
+  "csv_end_s": 479.18596283885034,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "vario"
+  ],
+  "gps": {
+    "point_count": 2814,
+    "manoeuvre_point_count": 97,
+    "current_csv_t": 459.82928093708273,
+    "current_latitude": 46.40224,
+    "current_longitude": 6.918361
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

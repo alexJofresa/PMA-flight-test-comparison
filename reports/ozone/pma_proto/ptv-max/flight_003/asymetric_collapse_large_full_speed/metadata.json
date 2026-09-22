@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-15T07:54:26",
+  "report_name": "Asymetric  collapse large full speed",
+  "comments": "Inflate in less than 3s from start of pilot action\n",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "maxi",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\maxi",
+    "flight_number": 3,
+    "flight_id": "Flight_003",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\maxi\\Flight_003"
+  },
+  "video_start_s": 216.502712,
+  "video_end_s": 230.973899,
+  "duration_s": 14.471186999999986,
+  "offset_s": 93.9690625667572,
+  "sync_scale": 1.0009726059835187,
+  "ground_offset_s": 52.900000000000006,
+  "csv_start_s": 310.68234639989646,
+  "csv_end_s": 325.1676081629612,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll"
+  ],
+  "gps": {
+    "point_count": 2124,
+    "manoeuvre_point_count": 73,
+    "current_csv_t": 310.68234639989646,
+    "current_latitude": 46.402428,
+    "current_longitude": 6.916144
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

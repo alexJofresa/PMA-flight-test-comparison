@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T15:13:09",
+  "report_name": "Directional control with a maintained asy collapse",
+  "comments": "Result: A\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_001"
+  },
+  "video_start_s": 435.48552,
+  "video_end_s": 466.31,
+  "duration_s": 30.824479999999994,
+  "offset_s": 144.32737231254578,
+  "sync_scale": 1.000016854192771,
+  "ground_offset_s": -10.100317000000018,
+  "csv_start_s": 579.8202320694488,
+  "csv_end_s": 610.6452315911768,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "GNSS_alt",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3659,
+    "manoeuvre_point_count": 154,
+    "current_csv_t": 579.8202320694488,
+    "current_latitude": 46.397464,
+    "current_longitude": 6.917931
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

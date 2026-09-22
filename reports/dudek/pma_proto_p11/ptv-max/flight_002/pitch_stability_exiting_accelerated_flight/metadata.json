@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T15:57:07",
+  "report_name": "Pitch Stability exiting accelerated flight",
+  "comments": "",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_002"
+  },
+  "video_start_s": 36.837082,
+  "video_end_s": 58.813998,
+  "duration_s": 21.976915999999996,
+  "offset_s": 362.9834032058716,
+  "sync_scale": 1.0009966820274299,
+  "ground_offset_s": 66.372334,
+  "csv_start_s": 399.85720006344394,
+  "csv_end_s": 421.8560200606395,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3437,
+    "manoeuvre_point_count": 110,
+    "current_csv_t": 399.85720006344394,
+    "current_latitude": 46.408724,
+    "current_longitude": 6.932996
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

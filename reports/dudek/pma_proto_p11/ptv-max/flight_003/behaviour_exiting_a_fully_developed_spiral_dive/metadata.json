@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-08T11:34:27",
+  "report_name": "Behaviour exiting a fully developed spiral dive",
+  "comments": "Result: B\nNo immediate reduction of rate of turn \n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 3,
+    "flight_id": "Flight_003",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_003"
+  },
+  "video_start_s": 211.971562,
+  "video_end_s": 246.453645,
+  "duration_s": 34.48208299999999,
+  "offset_s": 262.11913084983826,
+  "sync_scale": 1.0010262994809436,
+  "ground_offset_s": 3.0,
+  "csv_start_s": 474.3082391538936,
+  "csv_end_s": 508.82571109777837,
+  "indicators": [
+    "G_force",
+    "GNSS_vz_ms",
+    "GNSS_alt"
+  ],
+  "gps": {
+    "point_count": 2994,
+    "manoeuvre_point_count": 171,
+    "current_csv_t": 474.3082391538936,
+    "current_latitude": 46.400864,
+    "current_longitude": 6.919548
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

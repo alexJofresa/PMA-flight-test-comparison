@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-08T11:22:38",
+  "report_name": "High Angle of attack recovery ",
+  "comments": "Using B risers\nResult: A",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 3,
+    "flight_id": "Flight_003",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_003"
+  },
+  "video_start_s": 171.31,
+  "video_end_s": 192.161312,
+  "duration_s": 20.851312000000007,
+  "offset_s": 262.11913084983826,
+  "sync_scale": 1.0010262994809436,
+  "ground_offset_s": 3.0,
+  "csv_start_s": 433.6049462139187,
+  "csv_end_s": 454.4776579046013,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_speed_kmh"
+  ],
+  "gps": {
+    "point_count": 2994,
+    "manoeuvre_point_count": 105,
+    "current_csv_t": 433.6049462139187,
+    "current_latitude": 46.403516,
+    "current_longitude": 6.922244
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

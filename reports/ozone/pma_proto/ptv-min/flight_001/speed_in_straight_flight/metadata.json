@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-20T15:34:47",
+  "report_name": "Speed in straight flight",
+  "comments": "mini speed less than 25 km/h",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "min",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min\\Flight_001"
+  },
+  "video_start_s": 41.083187,
+  "video_end_s": 93.636603,
+  "duration_s": 52.55341599999999,
+  "offset_s": 245.89999999999998,
+  "sync_scale": 1.0,
+  "ground_offset_s": 22.0,
+  "csv_start_s": 286.983187,
+  "csv_end_s": 339.53660299999996,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll"
+  ],
+  "gps": {
+    "point_count": 3423,
+    "manoeuvre_point_count": 263,
+    "current_csv_t": 286.983187,
+    "current_latitude": 46.405936,
+    "current_longitude": 6.928492
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

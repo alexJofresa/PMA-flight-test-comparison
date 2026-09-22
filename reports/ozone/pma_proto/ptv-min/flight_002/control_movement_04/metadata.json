@@ -1,0 +1,42 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-21T15:49:28",
+  "report_name": "Control movement 04 ",
+  "comments": "",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "min",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min\\Flight_002"
+  },
+  "video_start_s": 81.320291,
+  "video_end_s": 118.192186,
+  "duration_s": 36.87189500000001,
+  "offset_s": 318.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 1.1999999999999886,
+  "csv_start_s": 399.820291,
+  "csv_end_s": 436.692186,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll"
+  ],
+  "gps": {
+    "point_count": 3250,
+    "manoeuvre_point_count": 185,
+    "current_csv_t": 399.820291,
+    "current_latitude": 46.405976,
+    "current_longitude": 6.931767
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T08:32:39",
+  "report_name": "High Angle of attack recovery 02",
+  "comments": "Need pilot action to recover normal fly\nUsing B line",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_001"
+  },
+  "video_start_s": 350.909979,
+  "video_end_s": 373.916901,
+  "duration_s": 23.006921999999975,
+  "offset_s": 263.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 17.029999999999973,
+  "csv_start_s": 614.409979,
+  "csv_end_s": 637.416901,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3148,
+    "manoeuvre_point_count": 116,
+    "current_csv_t": 614.409979,
+    "current_latitude": 46.395272,
+    "current_longitude": 6.917845
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T16:46:14",
+  "report_name": "Low speed spin tendency",
+  "comments": "Result : A\n\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_002"
+  },
+  "video_start_s": 328.76225,
+  "video_end_s": 361.438208,
+  "duration_s": 32.67595799999998,
+  "offset_s": 362.9834032058716,
+  "sync_scale": 1.0009966820274299,
+  "ground_offset_s": 66.372334,
+  "csv_start_s": 692.073324631744,
+  "csv_end_s": 724.7818501718116,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3437,
+    "manoeuvre_point_count": 163,
+    "current_csv_t": 692.073324631744,
+    "current_latitude": 46.397744,
+    "current_longitude": 6.919992
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

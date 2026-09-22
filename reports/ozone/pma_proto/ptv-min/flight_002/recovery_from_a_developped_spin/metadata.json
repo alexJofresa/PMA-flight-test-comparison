@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-21T16:28:49",
+  "report_name": "Recovery from a developped spin",
+  "comments": "",
+  "project": {
+    "manufacturer": "Ozone",
+    "model": "PMA_proto",
+    "size": "85-105_kg",
+    "weight_config": "min",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Ozone\\PMA_proto\\85-105_kg\\min\\Flight_002"
+  },
+  "video_start_s": 289.388372,
+  "video_end_s": 316.850122,
+  "duration_s": 27.461749999999995,
+  "offset_s": 318.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 1.1999999999999886,
+  "csv_start_s": 607.888372,
+  "csv_end_s": 635.350122,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "GNSS_velD"
+  ],
+  "gps": {
+    "point_count": 3250,
+    "manoeuvre_point_count": 137,
+    "current_csv_t": 607.888372,
+    "current_latitude": 46.40102,
+    "current_longitude": 6.914638
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

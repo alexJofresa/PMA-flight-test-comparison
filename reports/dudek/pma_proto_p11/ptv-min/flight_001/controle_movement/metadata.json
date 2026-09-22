@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T07:24:50",
+  "report_name": "Controle Movement ",
+  "comments": "69 cm\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_001"
+  },
+  "video_start_s": 164.185262,
+  "video_end_s": 183.773449,
+  "duration_s": 19.588187000000005,
+  "offset_s": 263.5,
+  "sync_scale": 1.0,
+  "ground_offset_s": 17.029999999999973,
+  "csv_start_s": 427.68526199999997,
+  "csv_end_s": 447.273449,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "vario"
+  ],
+  "gps": {
+    "point_count": 3148,
+    "manoeuvre_point_count": 98,
+    "current_csv_t": 427.68526199999997,
+    "current_latitude": 46.40262,
+    "current_longitude": 6.920034
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

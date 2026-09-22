@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T16:16:25",
+  "report_name": "Symetric Front Collapse Large Full speed",
+  "comments": "Result : B\nSpontaneous recovery in less than 3s\nDive is around 40° after exit keeping course.\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_002"
+  },
+  "video_start_s": 123.18,
+  "video_end_s": 146.227541,
+  "duration_s": 23.047540999999995,
+  "offset_s": 362.9834032058716,
+  "sync_scale": 1.0009966820274299,
+  "ground_offset_s": 66.372334,
+  "csv_start_s": 486.2861744980104,
+  "csv_end_s": 509.35668656790153,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3437,
+    "manoeuvre_point_count": 115,
+    "current_csv_t": 486.2861744980104,
+    "current_latitude": 46.404984,
+    "current_longitude": 6.923569
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

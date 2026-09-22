@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T14:46:45",
+  "report_name": "Alternative means of directional control",
+  "comments": "Result: A\nTurn 180° in less than 20s",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 1,
+    "flight_id": "Flight_001",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_001"
+  },
+  "video_start_s": 270.281269,
+  "video_end_s": 288.24681,
+  "duration_s": 17.965540999999973,
+  "offset_s": 144.32737231254578,
+  "sync_scale": 1.000016854192771,
+  "ground_offset_s": -10.100317000000018,
+  "csv_start_s": 414.6131966851559,
+  "csv_end_s": 432.5790404798471,
+  "indicators": [
+    "IAS_kmh",
+    "pitch",
+    "roll",
+    "GNSS_alt",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3659,
+    "manoeuvre_point_count": 89,
+    "current_csv_t": 414.6131966851559,
+    "current_latitude": 46.399012,
+    "current_longitude": 6.913263
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

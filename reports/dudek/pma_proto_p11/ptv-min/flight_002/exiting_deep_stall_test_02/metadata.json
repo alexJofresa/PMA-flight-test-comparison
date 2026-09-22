@@ -1,0 +1,43 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-09T13:40:53",
+  "report_name": "Exiting Deep stall test 01",
+  "comments": "\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "mini",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\mini\\Flight_002"
+  },
+  "video_start_s": 68.95279,
+  "video_end_s": 95.7,
+  "duration_s": 26.74721000000001,
+  "offset_s": 1025.0,
+  "sync_scale": 1.0,
+  "ground_offset_s": -6.0,
+  "csv_start_s": 1093.95279,
+  "csv_end_s": 1120.7,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll"
+  ],
+  "gps": {
+    "point_count": 5834,
+    "manoeuvre_point_count": 134,
+    "current_csv_t": 1093.95279,
+    "current_latitude": 46.406388,
+    "current_longitude": 6.926458
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}

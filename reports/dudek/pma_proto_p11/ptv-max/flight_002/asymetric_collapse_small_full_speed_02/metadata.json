@@ -1,0 +1,44 @@
+{
+  "version": "1.2",
+  "created_at": "2026-09-07T16:42:58",
+  "report_name": "Asymetric  Collapse Small Full speed 02",
+  "comments": "Result : A\nTurn les than 90° before re-inflation \nConsidering accuracy of the sensor and value around 45°, I consider roll and dive less than 45°\n",
+  "project": {
+    "manufacturer": "Dudek",
+    "model": "PMA_proto_P11",
+    "size": "85-105_kg",
+    "weight_config": "max",
+    "root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max",
+    "flight_number": 2,
+    "flight_id": "Flight_002",
+    "flight_root": "C:\\Users\\alexj\\code\\Flight_data_analyst\\FlightProjects\\Dudek\\PMA_proto_P11\\85-105_kg\\max\\Flight_002"
+  },
+  "video_start_s": 281.83,
+  "video_end_s": 293.426749,
+  "duration_s": 11.596748999999988,
+  "offset_s": 362.9834032058716,
+  "sync_scale": 1.0009966820274299,
+  "ground_offset_s": 66.372334,
+  "csv_start_s": 645.0942981016622,
+  "csv_end_s": 656.702605372967,
+  "indicators": [
+    "IAS_kmh",
+    "Glide_ratio_GNSS",
+    "pitch",
+    "roll",
+    "GNSS_vz_ms"
+  ],
+  "gps": {
+    "point_count": 3437,
+    "manoeuvre_point_count": 58,
+    "current_csv_t": 645.0942981016622,
+    "current_latitude": 46.399676,
+    "current_longitude": 6.917184
+  },
+  "files": {
+    "html": "index.html",
+    "video": "video.mp4",
+    "ground_video": "ground_video.mp4",
+    "data": "data.csv"
+  }
+}
